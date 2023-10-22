@@ -42,7 +42,7 @@ From the information provided the business can comfortably use the metrics to es
 
 ## RECOMMENDATIONS
 
-![image9.png]((https://github.com/ezraflavine/Phase3_project/blob/main/image9.png)
+![image9.png](https://github.com/ezraflavine/Phase3_project/blob/main/image9.png)
 
 1. Lower the total day charge of phone calls of the customers.
 2. Provide stable network and services to reduce the number of customer service calls that the customers make, because the more calls they make to the customer service the more likely they will leave the network.
