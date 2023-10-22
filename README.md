@@ -41,6 +41,7 @@ After going through all the models. I discovered Decison Trees model to be havin
 From the information provided the business can comfortably use the metrics to estimate the amount of business they lose every time customers exit their business and the rate at which they exit would help in approximating the losses at a particular time
 
 ## RECOMMENDATIONS
+Below are some of the recommendations I came up with as shown by the horizontal bar graph below based on the Decison Tree Model.
 
 ![image9.png](https://github.com/ezraflavine/Phase3_project/blob/main/image9.png)
 
