@@ -22,6 +22,8 @@ Data Visualization
 
 ![image3.png](https://github.com/ezraflavine/Phase3_project/blob/main/image3.png)
 
+![image7.png](https://github.com/ezraflavine/Phase3_project/blob/main/image7.png)
+
 ## DATA MODELING
 
 In data modeling I picked 3 models to work with and choose one that work perform better than the other. These models include;
@@ -29,9 +31,10 @@ In data modeling I picked 3 models to work with and choose one that work perform
 1) Logistic Regression Model
 2) Decision Trees Model
 3) K-Nearest Neighbors Model
-![image](https://github.com/ezraflavine/Phase3_project/assets/133887366/4468bf96-addb-426c-99b1-f4f5d379165a)
 
-![image]
+Logistic Regression Model
+
+![Logit_reg.png](https://github.com/ezraflavine/Phase3_project/blob/main/Logit_reg.png)
 
 The logistic regression model's performance, as indicated by these metrics, suggests that it can predict customer churn to some extent. However, there is room for improvement, particularly in terms of increasing recall (capturing more true churn cases) and improving the F1 score. 
 After going through all the models. I discovered Decison Trees model to be having one of the best estimates that closely looked at the business problem and solved it in a way that would answer the problem of customers churning or not.
@@ -39,7 +42,7 @@ From the information provided the business can comfortably use the metrics to es
 
 ## RECOMMENDATIONS
 
-![image]
+![image9.png]((https://github.com/ezraflavine/Phase3_project/blob/main/image9.png)
 
 1. Lower the total day charge of phone calls of the customers.
 2. Provide stable network and services to reduce the number of customer service calls that the customers make, because the more calls they make to the customer service the more likely they will leave the network.
