@@ -1,8 +1,7 @@
 ## Phase3_project - SyriaTel_Customer_Churn
 
 
-
-![image_hs]https://github.com/ezraflavine/Phase3_project/blob/main/image_hs.jpg
+![image_hs](https://github.com/ezraflavine/Phase3_project/blob/main/image_hs.jpg)
 
 
 
