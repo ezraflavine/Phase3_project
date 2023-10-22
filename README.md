@@ -1,9 +1,10 @@
-
-![image]
-
-
-
 ## Phase3_project - SyriaTel_Customer_Churn
+
+
+
+![image_hs]https://github.com/ezraflavine/Phase3_project/blob/main/image_hs.jpg
+
+
 
 ## Overview
 With me is the data from the Syrian Telecommunication Network 'SyrianTel_Customer_Churn.csv' that aims to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. The people in telecom business need to understand the amount of money lost in the event of customers leaving telecomunication networks after sometime. Since this translates to losing money in business, the interested parties need to be aware of the patterns and whether they can be predictable. 
