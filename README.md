@@ -15,9 +15,12 @@ For classification type of data we use one hot encoder to convert then into bina
 Some of the exploratory data analysis that I came up with are as follows;
 
 Data Visualization
-![image]
-![image]
-![image]
+
+![image1.png](https://github.com/ezraflavine/Phase3_project/blob/main/image1.png)
+
+![image2.png](https://github.com/ezraflavine/Phase3_project/blob/main/image2.png)
+
+![image3.png](https://github.com/ezraflavine/Phase3_project/blob/main/image3.png)
 
 ## DATA MODELING
 
